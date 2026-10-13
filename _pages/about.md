@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Hi 😄"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! 😄 My research focuses on **Artificial General Bio-Intelligence**, integrating insights from zoology and cognitive science into AI to develop biologically inspired intelligence and adaptive AI systems for changing environments.
+My research focuses on **Artificial General Bio-Intelligence**, integrating insights from zoology and cognitive science into AI to develop biologically inspired intelligence and adaptive AI systems for changing environments.
 
 Research Interests
 ======
