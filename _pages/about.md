@@ -20,6 +20,8 @@ Research Interests
 
 Research Projects
 ======
+* **Development and Demonstration of AI Service Technology for Analyzing the Effects of Personalized Exercise Recommendations** — 2027.01 – (Student Researcher)
+* **Development of an AI-based Smart Transdermal Delivery Platform for Digital Anesthesia and Pain Management** — 2026.06 – Present (Student Researcher)
 * **Development of a Humanoid AI Robot Foundation Model for Multi-Task Applications** — KEIT, 2025 – Present (Student Researcher)
 * **Development of Agentic AI-Based Agricultural Decision-Making System** — Seoul National University, 2025 – Present (Student Researcher)
 * **Development of AI Technologies for Data-Driven Agriculture** — Seoul National University (Student Researcher)
