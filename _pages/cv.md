@@ -11,53 +11,54 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Biosystems Engineering, Seoul National University, 2030 (expected)
-* B.S. in Animal Science & Technology / Electrical and Electronics Engineering, Chung-Ang University, 2012
+* **Combined MS/PhD Course**, Seoul National University (2024.03 – Present)
+  * Major in Biosystems Engineering
+  * Convergence Major in Global Smart Farm
+  * Advisor: Prof. Taehyeong Kim, [Lab of Artificial Intelligence and Big Data for Agriculture (LABA)](https://laba.snu.ac.kr/)
+* **B.S.**, Chung-Ang University (2018.03 – 2024.02)
+  * Major in Animal Science and Technology
+  * Double Major in Electrical and Electronic Engineering
+  * GPA: 3.84/4.50 (Cum Laude)
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Lifelong Learning Machines
+* Integration of Artificial Intelligence and Animal Science
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Research Intern** (2023.07 – 2024.02)
+  * Lab of Artificial Intelligence and Big Data for Agriculture, Seoul National University
+
+Research Projects
+======
+* **Development of AI Technologies for Data-Driven Agriculture**
+  * Seoul National University — Student Researcher
+* **AI-based Prediction and Validation of Plant-Microbe Interactions Under Climate Change** (2024.03 – Present)
+  * Seoul National University — Student Researcher
+* **INTEND: Intent-based Data Operation in the Computing Continuum** (2023.10 – Present)
+  * Horizon Europe — Student Researcher
+
+Honors and Awards
+======
+* Merit-based Scholarship, Seoul National University (2025-2, 2026-1)
+* BK Enhancing Diversity in Graduate Education Fellowship, Seoul National University (2025-1)
+* Brain Korea 21 FOUR Scholarship, Seoul National University (2024-1, 2026-1)
+* Academic Excellence Scholarship, Chung-Ang University (2018-1)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Languages
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Korean: Native
+* English: Proficient
+  * TOEIC: 965 (Listening 490 / Reading 475), 2021.12
+  * TEPS: 411 (Listening 161 / Reading 169 / Vocabulary 43 / Grammar 38), 2023.04
+
+Hobbies
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Soccer, Weight Training, 5km Marathon
