@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Kyuseok Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Combined MS/PhD Student, Biosystems Engineering @ LABA, SNU"
+  bio              : 'Combined MS/PhD Student, Biosystems Engineering @ <a href="https://laba.snu.ac.kr/">LABA</a>, SNU'
   location         : "Seoul, Republic of Korea"
   employer         : "Seoul National University"
-  uri              : "https://laba.snu.ac.kr/"
+  uri              : # URL
   email            : "kyuseok0603@snu.ac.kr" 
 
   # Academic websites
