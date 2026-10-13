@@ -14,7 +14,9 @@ layout: compress
   <body>
 
     {% include browser-upgrade.html %}
-    {% include masthead.html %}
+    <div id="theme-toggle" class="theme-toggle">
+      <a role="button" aria-label="toggle theme"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
+    </div>
 
     {{ content }}
 

@@ -79,3 +79,22 @@
   border-bottom: 2px solid var(--global-text-color);
   /* No need to repeat pointer-events and cursor here */
 }
+
+/* Standalone theme toggle (top-right) used in place of the masthead */
+
+.theme-toggle {
+  position: fixed;
+  top: 1em;
+  right: 1.5em;
+  z-index: 20;
+
+  a {
+    color: var(--global-masthead-link-color);
+    font-size: $type-size-4;
+    cursor: pointer;
+
+    &:hover {
+      color: var(--global-masthead-link-color-hover);
+    }
+  }
+}
