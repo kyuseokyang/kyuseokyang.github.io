@@ -20,6 +20,8 @@ Research Interests
 
 Research Projects
 ======
+* **Development of a Humanoid AI Robot Foundation Model for Multi-Task Applications** — KEIT, 2025 – Present (Student Researcher)
+* **Development of Agentic AI-Based Agricultural Decision-Making System** — Seoul National University, 2025 – Present (Student Researcher)
 * **Development of AI Technologies for Data-Driven Agriculture** — Seoul National University (Student Researcher)
 * **AI-based Prediction and Validation of Plant-Microbe Interactions Under Climate Change** — Seoul National University, 2024.03 – Present (Student Researcher)
 * **INTEND: Intent-based Data Operation in the Computing Continuum** — Horizon Europe, 2023.10 – Present (Student Researcher)
