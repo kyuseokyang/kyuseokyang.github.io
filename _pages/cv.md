@@ -14,7 +14,7 @@ Education
 * **Combined MS/PhD Course**, Seoul National University (2024.03 – Present)
   * Major in Biosystems Engineering
   * Convergence Major in Global Smart Farm
-  * Advisor: Prof. Taehyeong Kim, [Lab of Artificial Intelligence and Big Data for Agriculture (LABA)](http://laba.snu.ac.kr/)
+  * Advisor: Prof. Taehyeong Kim, [Lab of Artificial Intelligence and Big Data for Agriculture (LABA)](https://laba.snu.ac.kr/)
 * **B.S.**, Chung-Ang University (2018.03 – 2024.02)
   * Major in Animal Science and Technology
   * Double Major in Electrical and Electronic Engineering
