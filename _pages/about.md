@@ -26,7 +26,6 @@ Research Projects
 * **Development of Agentic AI-Based Agricultural Decision-Making System** — Seoul National University, 2025 – Present
 * **Development of AI Technologies for Data-Driven Agriculture** — Seoul National University
 * **AI-based Prediction and Validation of Plant-Microbe Interactions Under Climate Change** — Seoul National University, 2024.03 – Present
-* **INTEND: Intent-based Data Operation in the Computing Continuum** — Horizon Europe, 2023.10 – 2026.10
 
 Publications
 ======
