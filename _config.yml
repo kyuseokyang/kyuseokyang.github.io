@@ -23,7 +23,7 @@ repository               : "kyuseokyang/kyuseokyang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : # "profile.png" # hidden for now; uncomment to show the profile photo again
   name             : "Kyuseok Yang"
   pronouns         : # example: "she/her"  
   bio              : 'Combined MS/PhD Student, Biosystems Engineering @ <a href="https://laba.snu.ac.kr/">LABA</a>, SNU'
