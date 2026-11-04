@@ -30,7 +30,7 @@ Projects
   * Unified unsupervised clustering, class-incremental classification, and novel class discovery within one probabilistic category framework.
   * Improved scalability and structure discovery through efficient local category search and topological relations among learned categories.
 * **Cross-Modal Learning** \| *2025.08 – Present*
-  * Investigate how word meanings emerge from visual and linguistic co-occurrence, modeling cross-situational word learning on large-scale image–caption data.
+  * Investigated how word meanings emerge from visual and linguistic co-occurrence, modeling cross-situational word learning on large-scale image–caption data.
   * Learned aligned visual and linguistic representations and showed that the structural correspondence between modalities enables zero-shot object–word mapping.
   * Evaluated against established computational models of word learning in both static and continual learning settings.
 * **Agricultural AI** \| *2023.07 – Present*
@@ -38,7 +38,7 @@ Projects
   * Diagnosed plant stresses such as drought and bacterial infection from bioimpedance sensor signals and leaf images.
   * Emphasized robust evaluation for small agricultural datasets, including generalization to unseen farms and individuals and detection of data confounds.
 * **Agentic AI Trading System** \| *2026.09 – 2027.01*
-  * Built and operate an autonomous LLM-agent system that manages a live brokerage account end-to-end, from multi-source market data collection to strategy execution and order placement under strict risk controls.
+  * Built and operated an autonomous LLM-agent system that manages a live brokerage account end-to-end, from multi-source market data collection to strategy execution and order placement under strict risk controls.
   * Designed a self-improving, evidence-gated research loop in which the agent reviews its own trading outcomes, validates candidate strategies through large-scale historical backtesting, and deploys them only after staged verification.
   * Orchestrated multi-agent collaboration between operation and research agents, while building market datasets for future reinforcement learning-based decision models.
 
