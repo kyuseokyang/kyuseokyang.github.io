@@ -16,7 +16,7 @@ Education
   * Advisor: Prof. Taehyeong Kim
 * **B.S. in Animal Science and Technology**, Chung-Ang University, 2018.03 – 2024.02
   * Double Major in Electrical and Electronic Engineering
-  * GPA: 3.84/4.50 (Cum Laude)
+  * Cum Laude
 
 Research Interests
 ======
