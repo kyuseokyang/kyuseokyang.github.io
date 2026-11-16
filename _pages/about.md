@@ -12,7 +12,6 @@ My research focuses on **Artificial General Bio-Intelligence**, integrating insi
 Education
 ======
 * **Combined MS/PhD in Biosystems Engineering**, Seoul National University, 2024.03 – Present
-  * Convergence Major in Global Smart Farm
   * Advisor: Prof. Taehyeong Kim
 * **B.S. in Animal Science and Technology**, Chung-Ang University, 2018.03 – 2024.02
   * Double Major in Electrical and Electronic Engineering
