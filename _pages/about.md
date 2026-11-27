@@ -33,7 +33,7 @@ Projects
   * Learned aligned visual and linguistic representations and showed that the structural correspondence between modalities enables zero-shot object–word mapping.
   * Evaluated against established computational models of word learning in both static and continual learning settings.
 * **Industrial AI Applications** \| *2023.07 – Present*
-  * Predicted beef carcass quality traits by integrating genomic information with growth and feeding records, using domain knowledge-guided growth curve modeling to support early decision-making.
+  * Predicted beef carcass quality traits from genomic information and growth and feeding records.
   * Diagnosed plant stresses such as drought and bacterial infection from bioimpedance sensor signals and leaf images.
   * Detected and quantified gear tooth pitting from gearbox vibration signals.
   * Emphasized robust evaluation for small industrial datasets, including generalization to unseen farms, individuals, and gear sets and detection of data confounds.
