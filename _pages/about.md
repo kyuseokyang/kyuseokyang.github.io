@@ -35,7 +35,7 @@ Projects
 * **Industrial AI Applications** \| *2023.07 – Present*
   * Predicted beef carcass quality traits from genomic information and growth and feeding records.
   * Diagnosed plant stresses such as drought and bacterial infection from bioimpedance sensor signals and leaf images.
-  * Detected and quantified gear tooth pitting from gearbox vibration signals.
+  * Detected gear tooth pitting and estimated its severity from multi-channel gearbox vibration signals in durability tests.
   * Emphasized robust evaluation for small industrial datasets, including generalization to unseen farms, individuals, and gear sets and detection of data confounds.
 * **Agentic AI Trading System** \| *2026.09 – 2027.01*
   * Built and operated an autonomous LLM-agent system that manages a live brokerage account end-to-end, from multi-source market data collection to strategy execution and order placement under strict risk controls.
