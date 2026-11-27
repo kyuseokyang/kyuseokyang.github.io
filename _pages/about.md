@@ -33,10 +33,10 @@ Projects
   * Learned aligned visual and linguistic representations and showed that the structural correspondence between modalities enables zero-shot object–word mapping.
   * Evaluated against established computational models of word learning in both static and continual learning settings.
 * **Industrial AI Applications** \| *2023.07 – Present*
+  * Emphasized robust evaluation for small industrial datasets, including generalization to unseen farms, individuals, and gear sets and detection of data confounds.
   * Built a data preprocessing pipeline integrating genomic information with growth and feeding records for early prediction of beef carcass quality traits.
   * Diagnosed plant stresses such as drought and bacterial infection from bioimpedance sensor signals and leaf images.
   * Detected gear tooth pitting and estimated its severity from multi-channel gearbox vibration signals in durability tests.
-  * Emphasized robust evaluation for small industrial datasets, including generalization to unseen farms, individuals, and gear sets and detection of data confounds.
 * **Agentic AI Trading System** \| *2026.09 – 2027.01*
   * Built and operated an autonomous LLM-agent system that manages a live brokerage account end-to-end, from multi-source market data collection to strategy execution and order placement under strict risk controls.
   * Designed a self-improving, evidence-gated research loop in which the agent reviews its own trading outcomes, validates candidate strategies through large-scale historical backtesting, and deploys them only after staged verification.
